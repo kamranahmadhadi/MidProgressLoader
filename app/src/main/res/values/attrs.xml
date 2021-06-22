@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MidProgressLoader">
+        <attr name="midProgressDuration" format="integer" />
+        <attr name="midProgress" format="float" />
+        <attr name="midProgressbarColor" format="color" />
+        <attr name="midProgressBgColor" format="color" />
+        <attr name="midStrokeWidth" format="dimension" />
+        <attr name="twoWayLoader" format="boolean" />
+        <attr name="midStrokeCap" format="enum">
+            <enum name="butt" value="0" />
+            <enum name="round" value="1" />
+            <enum name="square" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>

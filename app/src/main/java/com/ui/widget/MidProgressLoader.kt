@@ -12,6 +12,7 @@ import android.util.AttributeSet
 import android.view.View
 import android.view.animation.DecelerateInterpolator
 import androidx.annotation.Keep
+import com.midprogress.R
 import kotlin.math.roundToInt
 import kotlin.math.roundToLong
 
